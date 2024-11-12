@@ -1,2 +1,2 @@
 # GitHub User Activity 
-that fetch git api 
+display commit history using git api 
